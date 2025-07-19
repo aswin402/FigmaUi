@@ -42,8 +42,9 @@ A clean and responsive web UI design template for a **QR Code-Based Smart Attend
 
 ## 📸 Preview
 
-> *(Add a few preview screenshots here or embed Figma prototype link)*
-
+ --Attendance_Website_template
+![QR Code Attendance System Preview](./Assets/screenshots/Attendance_Admin_Page.png)
+![QR Code Attendance System Preview](./Assets/screenshots/Attendance2.png)
 ---
 
 ## 💼 Use Cases
